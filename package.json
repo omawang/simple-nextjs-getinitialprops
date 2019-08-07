@@ -1,0 +1,22 @@
+{
+  "name": "simple-next-getinitialprops-demo",
+  "version": "1.0.0",
+  "description": "If you want to fetch data as SSR in next js, you will use getInitialProps for that",
+  "main": "index.js",
+  "author": "awank <mas.awank100@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "axios": "^0.19.0",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^9.0.3",
+    "node-sass": "^4.12.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  }
+}
