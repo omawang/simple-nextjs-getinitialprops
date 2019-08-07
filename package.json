@@ -1,7 +1,7 @@
 {
   "name": "simple-next-getinitialprops-demo",
   "version": "1.0.0",
-  "description": "If you want to fetch data as SSR in next js, you will use getInitialProps for that",
+  "description": "If you want to fetch data as SSR in next js, you will need getInitialProps for that",
   "main": "index.js",
   "author": "awank <mas.awank100@gmail.com>",
   "license": "MIT",
